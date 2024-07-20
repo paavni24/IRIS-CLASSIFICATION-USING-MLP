@@ -28,3 +28,4 @@ The Iris dataset contains the following features:
 ![GitHub Logo](https://github.com/paavni24/IRIS-CLASSIFICATION-USING-MLP/blob/main/MLP.png)
 
 # Results
+TEST ACCURACY : 0.8666666666666667
