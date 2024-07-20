@@ -24,3 +24,7 @@ The Iris dataset contains the following features:
 - numpy
 
 # MLP ARCHITECTURE
+
+![GitHub Logo](https://github.com/paavni24/IRIS-CLASSIFICATION-USING-MLP/blob/main/MLP.png)
+
+# Results
